@@ -2,11 +2,11 @@
 
 # Shanaaz Ahamed
 
-### Software Engineer • CS Graduate @ University of Moratuwa, Sri Lanka
+### Software Engineer • CSE Graduate @ University of Moratuwa, Sri Lanka
 
 <br>
 
-> *Building scalable software solutions and exploring new technologies.*
+> *exploring new technologies.*
 
 <br>
 
@@ -21,19 +21,19 @@
 <br>
 <br>
 
-<a href="https://github.com/imshaaz21">
+<!-- <a href="https://github.com/imshaaz21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Shanaaz's Github Stats" />
-</a>
+</a> -->
 
 <a href="https://github.com/imshaaz21">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=transparent&hide_border=true" alt="Shanaaz's Streak" />
 </a>
 
-<br>
+<!-- <br> -->
 
-<a href="https://github.com/imshaaz21">
+<!-- <a href="https://github.com/imshaaz21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshaaz21&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
+</a> -->
 
 </div>
 
