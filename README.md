@@ -1,41 +1,29 @@
-<div align="center">
-
 # Shanaaz Ahamed
 
-### Software Engineer • CSE Graduate @ University of Moratuwa, Sri Lanka
+**Software Engineer** | Backend & Cloud Infrastructure
 
-<br>
+[![GitHub Stars](https://img.shields.io/github/stars/imshaaz21?affiliations=OWNER&style=flat-square&logo=github&label=Total%20Stars)](https://github.com/imshaaz21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imshaaz21.github.io-black?style=flat-square&logo=googlechrome&logoColor=white)](https://imshaaz21.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imshaaz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshaaz/)
+[![Email](https://img.shields.io/badge/Email-shanaazahamed21%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanaazahamed21@gmail.com)
 
-> *exploring new technologies.*
+Software engineer specialising in backend systems and cloud infrastructure, currently working on large-scale healthcare platforms. Pursuing postgraduate research on proactive autoscaling for stateful Kubernetes microservices.
 
-<br>
+## Tech Stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imshaaz21.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshaaz/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanaazahamed21@gmail.com)
+- **Languages:** Java, Python, TypeScript
+- **Backend:** Spring Boot, Django, Kafka, REST APIs
+- **Frontend:** Angular, React
+- **Databases:** PostgreSQL, Oracle, MongoDB
+- **Security & IAM:** Keycloak, OAuth 2.0, OpenID Connect
+- **DevOps & Cloud:** Linux, Docker, Kubernetes, ArgoCD, Liquibase
 
-<br>
+## Research & Interests
 
-<img src="https://komarev.com/ghpvc/?username=imshaaz21&label=Profile%20Views&color=blue&style=flat-square" alt="imshaaz21" />
+My current research explores proactive, non-disruptive autoscaling for stateful Kubernetes workloads. It combines time-series forecasting and multi-agent reinforcement learning with in-place pod resizing to avoid the restart penalty of traditional vertical scaling.
 
-<br>
-<br>
+More broadly, I'm interested in:
 
-<!-- <a href="https://github.com/imshaaz21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imshaaz21&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Shanaaz's Github Stats" />
-</a> -->
-
-<a href="https://github.com/imshaaz21">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaaz21&theme=transparent&hide_border=true" alt="Shanaaz's Streak" />
-</a>
-
-<!-- <br> -->
-
-<!-- <a href="https://github.com/imshaaz21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshaaz21&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
-</a> -->
-
-</div>
-
-<br>
-<hr>
+- **Cloud resource management:** autoscaling, scheduling, and workload prediction
+- **Distributed systems:** multi-tenant architectures, event-driven design, and reliability engineering
+- **Systems-level Linux:** cgroups, container runtimes, and performance tuning
