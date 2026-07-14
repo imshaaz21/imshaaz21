@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imshaaz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshaaz/)
 [![Email](https://img.shields.io/badge/Email-shanaazahamed21%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanaazahamed21@gmail.com)
 
-Software engineer specialising in backend systems and cloud infrastructure, currently working on large-scale healthcare platforms. Pursuing postgraduate research on proactive autoscaling for stateful Kubernetes microservices.
+Software engineer specialising in backend systems and cloud infrastructure, currently building an end-to-end Health Information System used across the Middle East. Pursuing postgraduate research on proactive autoscaling for stateful Kubernetes microservices.
 
 ## Tech Stack
 
