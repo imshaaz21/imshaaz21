@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-imshaaz21.github.io-black?style=flat-square&logo=googlechrome&logoColor=white)](https://imshaaz21.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imshaaz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshaaz/)
 [![Email](https://img.shields.io/badge/Email-shanaaz.ahd%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanaaz.ahd@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-imshaaz-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/imshaaz)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_me_a_coffee-181717?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/imshaaz)
 
 Software Engineer specializing in backend systems and cloud infrastructure, currently working on large-scale Health Information Systems (HIS). Pursuing postgraduate studies in Computer Science, specializing in Cloud Computing.
 
